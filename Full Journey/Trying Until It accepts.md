@@ -16,3 +16,4 @@ Today was the first day I heard deeply about the UWC Scholarship. I became very 
 2. Then now its 10am I started to make a new Github page Document my project show my potential to public i have updated the README to actually everone understand my project.
 3. Now its 2pm i made simple workflow chart to everyone understand how my Project works.
 4. Now its 4.30pm I watched so many spoken english classes and I understood so many lessons and grammars about English thats all
+5. 9.30pm right now and i practiced so many mock interviews for UWC with AI. I opened the voice chat section of chat gpt and gemini and said i want to win UWC scholarship so they help me to improve my english
