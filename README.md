@@ -11,6 +11,8 @@ This prototype demonstrates a localized hardware-to-software automation loop des
 3. A microcontroller processes the ID and triggers a high-torque servo motor to automatically position the AI Camera its holding.
 4. An active processing link on the central laptop captures a real-time snapshot and logs the transaction data instantly.
 
+![System Workflow](Asset.png)
+
 ## Technology & Components 
 **COMPONENTS**
 1. AI powered components - Ai powered Surviellance camera at checkpoints tracks Load, Numebrplate verification ,and captures the evidence of the                                 transport  
