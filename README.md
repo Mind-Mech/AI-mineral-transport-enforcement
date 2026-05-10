@@ -35,3 +35,5 @@ This prototype demonstrates a localized hardware-to-software automation loop des
 4. Training and awarness programs for officers
 5. Enable statewide alert network
 6. Add cross department integration (MVD + Mining + Police)
+
+## Prototype Goals
